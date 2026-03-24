@@ -17,4 +17,3 @@ for cur_r in n :
                         cnt += 1
                 if cnt == 3 :
                     
-                
