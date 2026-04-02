@@ -12,10 +12,11 @@ if N >= 2 :
     for n in range(2, N+1) :
         for i in range(10) :
             if i != 0 and i != 9 :
-                dp[n][i] = (dp[n-1][i-1] + dp[n-1][i+1]) % P
+                dp[n][i] += dp[n-1][i-1]
+                dp[n][i] += dp[n-1][i+1]
             elif i == 9 :
-                dp[n][i] = dp[n-1][i-1] % P
+                dp[n][i] = dp[n-1][i-1]
             elif i == 0 :
-                dp[n][i] = dp[n-1][i+1] % P
+                dp[n][i] = dp[n-1][i+1]
 
-print(sum(dp[-1]) % P)
+print(sum(dp[-1])%P)
