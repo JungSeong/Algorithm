@@ -21,11 +21,13 @@ print(answer)
 for i in range(N-1, -1, -1) :
     if dp[i] == answer :
         start_idx = i
+        result.append(str(A[i]))
         break
 
 while start_idx != -1 :
-    result.append(str(A[start_idx]))
-    start_idx = idx[start_idx]
+    i = idx[start_idx] # ERROR : 부모 인덱스로 먼저 이동한 다음 result.append를 실행
+    result.append(str(A[i]))
+    start_idx = i
 
 result.reverse()
 print(' '.join(result))

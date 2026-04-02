@@ -21,11 +21,16 @@ print(answer)
 for i in range(N-1, -1, -1) :
     if dp[i] == answer :
         start_idx = i
+        result.append(str(A[i]))
         break
 
-while start_idx != -1 :
-    result.append(str(A[start_idx]))
-    start_idx = idx[start_idx]
+while True :
+    i = idx[start_idx]
+    result.append(str(A[i]))
+    start_idx = i
+
+    if start_idx == 0 :
+        break
 
 result.reverse()
 print(' '.join(result))
