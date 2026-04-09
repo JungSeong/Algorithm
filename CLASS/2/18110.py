@@ -13,7 +13,7 @@ for i in range(n) :
 
 comments.sort()
 p = n*0.15
-p = math.ceil(p) if math.ceil(p)-p <= 0.5 else math.floor(p)
+p = int(p+0.5)
 answer = 0
 
 if p == 0 :
@@ -22,5 +22,5 @@ else :
     answer = sum(comments[p:-p])
 
 answer /= (n-p*2)
-answer = math.ceil(answer) if math.ceil(answer)-answer <= 0.5 else math.floor(answer)
+answer = int(answer+0.5)
 print(answer)
