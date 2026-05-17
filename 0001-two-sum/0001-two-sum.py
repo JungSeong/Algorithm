@@ -2,10 +2,16 @@ from collections import defaultdict
 
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        d = defaultdict()
-        for idx, n in enumerate(nums) :
-            d[n] = idx
+        arr = [(num, i) for i, num in enumerate(nums)]
+        arr = sorted(arr)
+        left, right = 0, len(nums)-1
 
-        for i in range(len(nums)) :
-            if target-nums[i] in d.keys() and d[target-nums[i]] != i :
-                return [i, d[target-nums[i]]]
+        while left <= right :
+            nl, nr = arr[left][0], arr[right][0]
+
+            if nl + nr == target :
+                return [arr[left][1], arr[right][1]]
+            elif nl + nr > target :
+                right -= 1
+            else : 
+                left += 1 
