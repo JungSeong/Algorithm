@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/JungSeong/Algorithm/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/JungSeong/Algorithm/tree/master/0058-length-of-last-word) |
 | [0796-rotate-string](https://github.com/JungSeong/Algorithm/tree/master/0796-rotate-string) |
 ## String Matching
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/JungSeong/Algorithm/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/JungSeong/Algorithm/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/JungSeong/Algorithm/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/JungSeong/Algorithm/tree/master/0015-3sum) |
 ## Hash Table
 |  |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/JungSeong/Algorithm/tree/master/0015-3sum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/JungSeong/Algorithm/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
