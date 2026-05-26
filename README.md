@@ -4,66 +4,66 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
-| [0014-longest-common-prefix](https://github.com/JungSeong/Algorithm/tree/master/0014-longest-common-prefix) |
-| [0058-length-of-last-word](https://github.com/JungSeong/Algorithm/tree/master/0058-length-of-last-word) |
-| [0796-rotate-string](https://github.com/JungSeong/Algorithm/tree/master/0796-rotate-string) |
+| [0014-longest-common-prefix](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0058-length-of-last-word) |
+| [0796-rotate-string](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0796-rotate-string) |
 ## String Matching
 |  |
 | ------- |
-| [0796-rotate-string](https://github.com/JungSeong/Algorithm/tree/master/0796-rotate-string) |
+| [0796-rotate-string](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0796-rotate-string) |
 ## Linked List
 |  |
 | ------- |
-| [0002-add-two-numbers](https://github.com/JungSeong/Algorithm/tree/master/0002-add-two-numbers) |
-| [0083-remove-duplicates-from-sorted-list](https://github.com/JungSeong/Algorithm/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0002-add-two-numbers](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0002-add-two-numbers) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0083-remove-duplicates-from-sorted-list) |
 ## Math
 |  |
 | ------- |
-| [0002-add-two-numbers](https://github.com/JungSeong/Algorithm/tree/master/0002-add-two-numbers) |
+| [0002-add-two-numbers](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0002-add-two-numbers) |
 ## Recursion
 |  |
 | ------- |
-| [0002-add-two-numbers](https://github.com/JungSeong/Algorithm/tree/master/0002-add-two-numbers) |
+| [0002-add-two-numbers](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0002-add-two-numbers) |
 ## Array
 |  |
 | ------- |
-| [0001-two-sum](https://github.com/JungSeong/Algorithm/tree/master/0001-two-sum) |
-| [0011-container-with-most-water](https://github.com/JungSeong/Algorithm/tree/master/0011-container-with-most-water) |
-| [0014-longest-common-prefix](https://github.com/JungSeong/Algorithm/tree/master/0014-longest-common-prefix) |
-| [0015-3sum](https://github.com/JungSeong/Algorithm/tree/master/0015-3sum) |
-| [0018-4sum](https://github.com/JungSeong/Algorithm/tree/master/0018-4sum) |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/JungSeong/Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0027-remove-element](https://github.com/JungSeong/Algorithm/tree/master/0027-remove-element) |
-| [0031-next-permutation](https://github.com/JungSeong/Algorithm/tree/master/0031-next-permutation) |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JungSeong/Algorithm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0001-two-sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0015-3sum) |
+| [0018-4sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0027-remove-element) |
+| [0031-next-permutation](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
-| [0001-two-sum](https://github.com/JungSeong/Algorithm/tree/master/0001-two-sum) |
+| [0001-two-sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0001-two-sum) |
 ## Two Pointers
 |  |
 | ------- |
-| [0011-container-with-most-water](https://github.com/JungSeong/Algorithm/tree/master/0011-container-with-most-water) |
-| [0015-3sum](https://github.com/JungSeong/Algorithm/tree/master/0015-3sum) |
-| [0018-4sum](https://github.com/JungSeong/Algorithm/tree/master/0018-4sum) |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/JungSeong/Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0027-remove-element](https://github.com/JungSeong/Algorithm/tree/master/0027-remove-element) |
-| [0031-next-permutation](https://github.com/JungSeong/Algorithm/tree/master/0031-next-permutation) |
+| [0011-container-with-most-water](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0015-3sum) |
+| [0018-4sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0027-remove-element) |
+| [0031-next-permutation](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0031-next-permutation) |
 ## Greedy
 |  |
 | ------- |
-| [0011-container-with-most-water](https://github.com/JungSeong/Algorithm/tree/master/0011-container-with-most-water) |
+| [0011-container-with-most-water](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0011-container-with-most-water) |
 ## Sorting
 |  |
 | ------- |
-| [0015-3sum](https://github.com/JungSeong/Algorithm/tree/master/0015-3sum) |
-| [0018-4sum](https://github.com/JungSeong/Algorithm/tree/master/0018-4sum) |
+| [0015-3sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0015-3sum) |
+| [0018-4sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0018-4sum) |
 ## Trie
 |  |
 | ------- |
-| [0014-longest-common-prefix](https://github.com/JungSeong/Algorithm/tree/master/0014-longest-common-prefix) |
+| [0014-longest-common-prefix](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0014-longest-common-prefix) |
 ## Binary Search
 |  |
 | ------- |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JungSeong/Algorithm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
