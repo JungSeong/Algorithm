@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0027-remove-element) |
 | [0031-next-permutation](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JungSeong/Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0085-maximal-rectangle) |
 ## Hash Table
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0027-remove-element) |
 | [0031-next-permutation](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0031-next-permutation) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JungSeong/Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Greedy
 |  |
 | ------- |
