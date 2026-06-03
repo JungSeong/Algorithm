@@ -1,17 +1,10 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        arr = [0]*len(nums)
+        write = 0
 
-        from collections import Counter
-        cnt = Counter(nums)
-        answer = 0
+        for n in nums :
+            if write < 2 or nums[write-2] != n :
+                nums[write] = n
+                write += 1
 
-        for k, v in cnt.items() :
-            if v >= 2 :
-                v = 2
-            for i in range(v) :
-                arr[answer] = k
-                answer += 1
-
-        nums[:] = arr
-        return answer
+        return write
