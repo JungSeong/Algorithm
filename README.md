@@ -39,10 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0085-maximal-rectangle) |
+| [0169-majority-element](https://github.com/JungSeong/Algorithm/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0001-two-sum) |
+| [0169-majority-element](https://github.com/JungSeong/Algorithm/tree/master/0169-majority-element) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/3121-count-the-number-of-special-characters-ii) |
 ## Two Pointers
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0015-3sum) |
 | [0018-4sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0018-4sum) |
+| [0169-majority-element](https://github.com/JungSeong/Algorithm/tree/master/0169-majority-element) |
 ## Trie
 |  |
 | ------- |
@@ -87,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0085-maximal-rectangle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/JungSeong/Algorithm/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/JungSeong/Algorithm/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
