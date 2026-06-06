@@ -6,7 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0058-length-of-last-word) |
-| [0392-is-subsequence](https://github.com/JungSeong/Algorithm/tree/master/0392-is-subsequence) |
+| [0392-is-subsequence](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0796-rotate-string) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/3121-count-the-number-of-special-characters-ii) |
 ## String Matching
@@ -57,7 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0027-remove-element) |
 | [0031-next-permutation](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0080-remove-duplicates-from-sorted-array-ii) |
-| [0392-is-subsequence](https://github.com/JungSeong/Algorithm/tree/master/0392-is-subsequence) |
+| [0392-is-subsequence](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -80,7 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0085-maximal-rectangle) |
-| [0392-is-subsequence](https://github.com/JungSeong/Algorithm/tree/master/0392-is-subsequence) |
+| [0392-is-subsequence](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
