@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0002-add-two-numbers) |
+| [0380-insert-delete-getrandom-o1](https://github.com/JungSeong/Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
 ## Recursion
 |  |
 | ------- |
@@ -44,11 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0085-maximal-rectangle) |
 | [0169-majority-element](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0169-majority-element) |
 | [0274-h-index](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/JungSeong/Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0001-two-sum) |
 | [0169-majority-element](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/JungSeong/Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/3121-count-the-number-of-special-characters-ii) |
 ## Two Pointers
 |  |
@@ -113,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/JungSeong/Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/JungSeong/Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
