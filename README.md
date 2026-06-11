@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0085-maximal-rectangle) |
 | [0169-majority-element](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/JungSeong/Algorithm/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0380-insert-delete-getrandom-o1) |
 ## Hash Table
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0380-insert-delete-getrandom-o1) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/JungSeong/Algorithm/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
