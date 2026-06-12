@@ -43,7 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0085-maximal-rectangle) |
-| [0088-merge-sorted-array](https://github.com/JungSeong/Algorithm/tree/master/0088-merge-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0134-gas-station) |
 | [0169-majority-element](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0238-product-of-array-except-self) |
@@ -66,7 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0027-remove-element) |
 | [0031-next-permutation](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0080-remove-duplicates-from-sorted-array-ii) |
-| [0088-merge-sorted-array](https://github.com/JungSeong/Algorithm/tree/master/0088-merge-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0088-merge-sorted-array) |
 | [0392-is-subsequence](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0392-is-subsequence) |
 ## Greedy
 |  |
@@ -80,7 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0015-3sum) |
 | [0018-4sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0018-4sum) |
-| [0088-merge-sorted-array](https://github.com/JungSeong/Algorithm/tree/master/0088-merge-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0169-majority-element) |
 | [0274-h-index](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0274-h-index) |
 ## Trie
