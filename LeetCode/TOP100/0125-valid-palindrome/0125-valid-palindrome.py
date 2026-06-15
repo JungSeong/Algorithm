@@ -5,7 +5,7 @@ class Solution:
 
         for ch in s :
             ch = ch.lower()
-            if ch.isalpha() or ch.isdigit() :
+            if ch.isalnum() :
                 answer.append(ch)
 
         s = "".join(answer)
