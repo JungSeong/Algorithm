@@ -165,11 +165,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0104-maximum-depth-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/JungSeong/Algorithm/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0104-maximum-depth-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/JungSeong/Algorithm/tree/master/0743-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -179,8 +181,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0215-kth-largest-element-in-an-array) |
+| [0743-network-delay-time](https://github.com/JungSeong/Algorithm/tree/master/0743-network-delay-time) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0215-kth-largest-element-in-an-array) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/JungSeong/Algorithm/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/JungSeong/Algorithm/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
