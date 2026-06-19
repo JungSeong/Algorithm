@@ -8,7 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0205-isomorphic-strings) |
-| [0242-valid-anagram](https://github.com/JungSeong/Algorithm/tree/master/0242-valid-anagram) |
+| [0242-valid-anagram](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0392-is-subsequence) |
@@ -63,7 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0001-two-sum) |
 | [0169-majority-element](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0205-isomorphic-strings) |
-| [0242-valid-anagram](https://github.com/JungSeong/Algorithm/tree/master/0242-valid-anagram) |
+| [0242-valid-anagram](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0383-ransom-note) |
@@ -97,7 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0215-kth-largest-element-in-an-array) |
-| [0242-valid-anagram](https://github.com/JungSeong/Algorithm/tree/master/0242-valid-anagram) |
+| [0242-valid-anagram](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0242-valid-anagram) |
 | [0274-h-index](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0274-h-index) |
 ## Trie
 |  |
