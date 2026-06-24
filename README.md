@@ -53,7 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0215-kth-largest-element-in-an-array) |
-| [0219-contains-duplicate-ii](https://github.com/JungSeong/Algorithm/tree/master/0219-contains-duplicate-ii) |
+| [0219-contains-duplicate-ii](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0300-longest-increasing-subsequence) |
@@ -64,7 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0001-two-sum) |
 | [0169-majority-element](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0205-isomorphic-strings) |
-| [0219-contains-duplicate-ii](https://github.com/JungSeong/Algorithm/tree/master/0219-contains-duplicate-ii) |
+| [0219-contains-duplicate-ii](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0380-insert-delete-getrandom-o1) |
@@ -199,5 +199,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
-| [0219-contains-duplicate-ii](https://github.com/JungSeong/Algorithm/tree/master/0219-contains-duplicate-ii) |
+| [0219-contains-duplicate-ii](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
