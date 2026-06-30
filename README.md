@@ -5,7 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0014-longest-common-prefix) |
-| [0049-group-anagrams](https://github.com/JungSeong/Algorithm/tree/master/0049-group-anagrams) |
+| [0049-group-anagrams](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0205-isomorphic-strings) |
@@ -46,7 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0045-jump-game-ii) |
-| [0049-group-anagrams](https://github.com/JungSeong/Algorithm/tree/master/0049-group-anagrams) |
+| [0049-group-anagrams](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0085-maximal-rectangle) |
@@ -66,7 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0001-two-sum) |
-| [0049-group-anagrams](https://github.com/JungSeong/Algorithm/tree/master/0049-group-anagrams) |
+| [0049-group-anagrams](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0205-isomorphic-strings) |
@@ -102,7 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0015-3sum) |
 | [0018-4sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0018-4sum) |
-| [0049-group-anagrams](https://github.com/JungSeong/Algorithm/tree/master/0049-group-anagrams) |
+| [0049-group-anagrams](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0215-kth-largest-element-in-an-array) |
