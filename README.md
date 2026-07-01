@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/JungSeong/Algorithm/tree/master/0048-rotate-image) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0380-insert-delete-getrandom-o1) |
 ## Recursion
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/JungSeong/Algorithm/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0055-jump-game) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/JungSeong/Algorithm/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0085-maximal-rectangle) |
 ## Monotonic Stack
