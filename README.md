@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/JungSeong/Algorithm/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0085-maximal-rectangle) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/JungSeong/Algorithm/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0128-longest-consecutive-sequence) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/JungSeong/Algorithm/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
