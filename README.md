@@ -52,7 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0055-jump-game) |
-| [0073-set-matrix-zeroes](https://github.com/JungSeong/Algorithm/tree/master/0073-set-matrix-zeroes) |
+| [0073-set-matrix-zeroes](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0088-merge-sorted-array) |
@@ -73,7 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0049-group-anagrams) |
-| [0073-set-matrix-zeroes](https://github.com/JungSeong/Algorithm/tree/master/0073-set-matrix-zeroes) |
+| [0073-set-matrix-zeroes](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0205-isomorphic-strings) |
@@ -144,7 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0054-spiral-matrix) |
-| [0073-set-matrix-zeroes](https://github.com/JungSeong/Algorithm/tree/master/0073-set-matrix-zeroes) |
+| [0073-set-matrix-zeroes](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
