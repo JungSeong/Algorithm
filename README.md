@@ -52,7 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0055-jump-game) |
-| [0056-merge-intervals](https://github.com/JungSeong/Algorithm/tree/master/0056-merge-intervals) |
+| [0056-merge-intervals](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0085-maximal-rectangle) |
@@ -113,7 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0015-3sum) |
 | [0018-4sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0018-4sum) |
 | [0049-group-anagrams](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0049-group-anagrams) |
-| [0056-merge-intervals](https://github.com/JungSeong/Algorithm/tree/master/0056-merge-intervals) |
+| [0056-merge-intervals](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0215-kth-largest-element-in-an-array) |
