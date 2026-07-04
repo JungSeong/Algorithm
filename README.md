@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/JungSeong/Algorithm/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0242-valid-anagram) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/JungSeong/Algorithm/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0085-maximal-rectangle) |
 ## Matrix
 |  |
