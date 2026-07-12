@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/JungSeong/Algorithm/tree/master/0070-climbing-stairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0380-insert-delete-getrandom-o1) |
 ## Recursion
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/JungSeong/Algorithm/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0085-maximal-rectangle) |
 | [0300-longest-increasing-subsequence](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0392-is-subsequence) |
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0289-game-of-life) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/JungSeong/Algorithm/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
