@@ -33,7 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0070-climbing-stairs) |
-| [0150-evaluate-reverse-polish-notation](https://github.com/JungSeong/Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0150-evaluate-reverse-polish-notation) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0380-insert-delete-getrandom-o1) |
 ## Recursion
 |  |
@@ -65,7 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0134-gas-station) |
-| [0150-evaluate-reverse-polish-notation](https://github.com/JungSeong/Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0209-minimum-size-subarray-sum) |
@@ -156,7 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0085-maximal-rectangle) |
-| [0150-evaluate-reverse-polish-notation](https://github.com/JungSeong/Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0150-evaluate-reverse-polish-notation) |
 ## Matrix
 |  |
 | ------- |
