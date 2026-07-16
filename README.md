@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/JungSeong/Algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0141-linked-list-cycle) |
 ## Math
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/JungSeong/Algorithm/tree/master/0021-merge-two-sorted-lists) |
 ## Array
 |  |
 | ------- |
