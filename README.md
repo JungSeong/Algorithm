@@ -85,7 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1260-shift-2d-grid](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/1260-shift-2d-grid) |
-| [1331-rank-transform-of-an-array](https://github.com/JungSeong/Algorithm/tree/master/1331-rank-transform-of-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,7 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0383-ransom-note) |
-| [1331-rank-transform-of-an-array](https://github.com/JungSeong/Algorithm/tree/master/1331-rank-transform-of-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/1331-rank-transform-of-an-array) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/3121-count-the-number-of-special-characters-ii) |
 ## Two Pointers
 |  |
@@ -142,7 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0242-valid-anagram) |
 | [0274-h-index](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0452-minimum-number-of-arrows-to-burst-balloons) |
-| [1331-rank-transform-of-an-array](https://github.com/JungSeong/Algorithm/tree/master/1331-rank-transform-of-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/1331-rank-transform-of-an-array) |
 ## Trie
 |  |
 | ------- |
