@@ -220,7 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0104-maximum-depth-of-binary-tree) |
-| [0112-path-sum](https://github.com/JungSeong/Algorithm/tree/master/0112-path-sum) |
+| [0112-path-sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
@@ -229,7 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0104-maximum-depth-of-binary-tree) |
-| [0112-path-sum](https://github.com/JungSeong/Algorithm/tree/master/0112-path-sum) |
+| [0112-path-sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0743-network-delay-time) |
@@ -239,7 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0104-maximum-depth-of-binary-tree) |
-| [0112-path-sum](https://github.com/JungSeong/Algorithm/tree/master/0112-path-sum) |
+| [0112-path-sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0743-network-delay-time) |
@@ -249,7 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0104-maximum-depth-of-binary-tree) |
-| [0112-path-sum](https://github.com/JungSeong/Algorithm/tree/master/0112-path-sum) |
+| [0112-path-sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0637-average-of-levels-in-binary-tree) |
 ## Heap (Priority Queue)
