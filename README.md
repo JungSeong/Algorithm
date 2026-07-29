@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/JungSeong/Algorithm/tree/master/0172-factorial-trailing-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0380-insert-delete-getrandom-o1) |
 ## Recursion
 |  |
