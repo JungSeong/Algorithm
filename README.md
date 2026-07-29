@@ -37,7 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0048-rotate-image) |
-| [0066-plus-one](https://github.com/JungSeong/Algorithm/tree/master/0066-plus-one) |
+| [0066-plus-one](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0150-evaluate-reverse-polish-notation) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0380-insert-delete-getrandom-o1) |
@@ -66,7 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0057-insert-interval) |
-| [0066-plus-one](https://github.com/JungSeong/Algorithm/tree/master/0066-plus-one) |
+| [0066-plus-one](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0085-maximal-rectangle) |
