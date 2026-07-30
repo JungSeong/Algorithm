@@ -19,7 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/1768-merge-strings-alternately) |
-| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JungSeong/Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/3121-count-the-number-of-special-characters-ii) |
 ## String Matching
 |  |
@@ -43,7 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0172-factorial-trailing-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0380-insert-delete-getrandom-o1) |
-| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JungSeong/Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
 | ------- |
@@ -137,7 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0134-gas-station) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/1081-smallest-subsequence-of-distinct-characters) |
-| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JungSeong/Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
