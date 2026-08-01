@@ -43,14 +43,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0172-factorial-trailing-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0380-insert-delete-getrandom-o1) |
-| [0486-predict-the-winner](https://github.com/JungSeong/Algorithm/tree/master/0486-predict-the-winner) |
+| [0486-predict-the-winner](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0021-merge-two-sorted-lists) |
-| [0486-predict-the-winner](https://github.com/JungSeong/Algorithm/tree/master/0486-predict-the-winner) |
+| [0486-predict-the-winner](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0486-predict-the-winner) |
 ## Array
 |  |
 | ------- |
@@ -92,7 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0300-longest-increasing-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0452-minimum-number-of-arrows-to-burst-balloons) |
-| [0486-predict-the-winner](https://github.com/JungSeong/Algorithm/tree/master/0486-predict-the-winner) |
+| [0486-predict-the-winner](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0486-predict-the-winner) |
 | [1260-shift-2d-grid](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/1331-rank-transform-of-an-array) |
 | [2239-find-closest-number-to-zero](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/2239-find-closest-number-to-zero) |
@@ -176,7 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0392-is-subsequence) |
-| [0486-predict-the-winner](https://github.com/JungSeong/Algorithm/tree/master/0486-predict-the-winner) |
+| [0486-predict-the-winner](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0486-predict-the-winner) |
 ## Stack
 |  |
 | ------- |
@@ -309,5 +309,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
-| [0486-predict-the-winner](https://github.com/JungSeong/Algorithm/tree/master/0486-predict-the-winner) |
+| [0486-predict-the-winner](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
