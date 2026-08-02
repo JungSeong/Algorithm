@@ -19,7 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/1768-merge-strings-alternately) |
-| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/JungSeong/Algorithm/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/3121-count-the-number-of-special-characters-ii) |
 ## String Matching
