@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0083-remove-duplicates-from-sorted-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/JungSeong/Algorithm/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0141-linked-list-cycle) |
 ## Math
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/JungSeong/Algorithm/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0205-isomorphic-strings) |
