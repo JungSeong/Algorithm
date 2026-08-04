@@ -99,7 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/1331-rank-transform-of-an-array) |
 | [2239-find-closest-number-to-zero](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/2239-find-closest-number-to-zero) |
-| [3731-find-missing-elements](https://github.com/JungSeong/Algorithm/tree/master/3731-find-missing-elements) |
+| [3731-find-missing-elements](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,7 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0383-ransom-note) |
 | [1331-rank-transform-of-an-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/1331-rank-transform-of-an-array) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/3121-count-the-number-of-special-characters-ii) |
-| [3731-find-missing-elements](https://github.com/JungSeong/Algorithm/tree/master/3731-find-missing-elements) |
+| [3731-find-missing-elements](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -161,7 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/1331-rank-transform-of-an-array) |
-| [3731-find-missing-elements](https://github.com/JungSeong/Algorithm/tree/master/3731-find-missing-elements) |
+| [3731-find-missing-elements](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/3731-find-missing-elements) |
 ## Trie
 |  |
 | ------- |
