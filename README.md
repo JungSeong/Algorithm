@@ -251,7 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0226-invert-binary-tree) |
-| [0530-minimum-absolute-difference-in-bst](https://github.com/JungSeong/Algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -262,7 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0226-invert-binary-tree) |
-| [0530-minimum-absolute-difference-in-bst](https://github.com/JungSeong/Algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0743-network-delay-time) |
 ## Breadth-First Search
@@ -274,7 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0226-invert-binary-tree) |
-| [0530-minimum-absolute-difference-in-bst](https://github.com/JungSeong/Algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0743-network-delay-time) |
 ## Binary Tree
@@ -286,7 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0226-invert-binary-tree) |
-| [0530-minimum-absolute-difference-in-bst](https://github.com/JungSeong/Algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0637-average-of-levels-in-binary-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -332,5 +332,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
-| [0530-minimum-absolute-difference-in-bst](https://github.com/JungSeong/Algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
