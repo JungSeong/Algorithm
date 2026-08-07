@@ -4,31 +4,27 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
 class Solution(object):
     def getMinimumDifference(self, root):
         """
         :type root: Optional[TreeNode]
         :rtype: int
         """
-        possible = []
-        answer = float('inf')
+        stack = []
+        cur = root
+        prev = None
+        ans = float('inf')
 
-        from collections import deque
-        dq = deque()
-        if root :
-            dq.append(root)
+        while cur or stack :
+            while cur :
+                stack.append(cur)
+                cur = cur.left
 
-        while dq :
-            Node = dq.popleft()
-            possible.append(Node.val)
+            cur = stack.pop()
+            if prev is not None :
+                ans = min(ans, cur.val - prev)
+            prev = cur.val
+            cur = cur.right
 
-            if Node.left :
-                dq.append(Node.left)
-            if Node.right :
-                dq.append(Node.right)
-                
-        for i in range(len(possible)) :
-            for j in range(i+1, len(possible)) :
-                answer = min(answer, abs(possible[i]-possible[j]))
-
-        return answer
+        return ans
