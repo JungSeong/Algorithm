@@ -91,7 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0169-majority-element) |
 | [0198-house-robber](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0198-house-robber) |
-| [0200-number-of-islands](https://github.com/JungSeong/Algorithm/tree/master/0200-number-of-islands) |
+| [0200-number-of-islands](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0219-contains-duplicate-ii) |
@@ -213,7 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0085-maximal-rectangle) |
-| [0200-number-of-islands](https://github.com/JungSeong/Algorithm/tree/master/0200-number-of-islands) |
+| [0200-number-of-islands](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/1260-shift-2d-grid) |
 ## Monotonic Stack
@@ -270,7 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0199-binary-tree-right-side-view) |
-| [0200-number-of-islands](https://github.com/JungSeong/Algorithm/tree/master/0200-number-of-islands) |
+| [0200-number-of-islands](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0637-average-of-levels-in-binary-tree) |
@@ -283,7 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0199-binary-tree-right-side-view) |
-| [0200-number-of-islands](https://github.com/JungSeong/Algorithm/tree/master/0200-number-of-islands) |
+| [0200-number-of-islands](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0637-average-of-levels-in-binary-tree) |
@@ -327,7 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0128-longest-consecutive-sequence) |
-| [0200-number-of-islands](https://github.com/JungSeong/Algorithm/tree/master/0200-number-of-islands) |
+| [0200-number-of-islands](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0200-number-of-islands) |
 ## Simulation
 |  |
 | ------- |
