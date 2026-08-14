@@ -6,7 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0014-longest-common-prefix) |
-| [0017-letter-combinations-of-a-phone-number](https://github.com/JungSeong/Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0058-length-of-last-word) |
@@ -113,7 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0003-longest-substring-without-repeating-characters) |
-| [0017-letter-combinations-of-a-phone-number](https://github.com/JungSeong/Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0073-set-matrix-zeroes) |
@@ -356,5 +356,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
-| [0017-letter-combinations-of-a-phone-number](https://github.com/JungSeong/Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
