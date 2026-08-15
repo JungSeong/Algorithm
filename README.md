@@ -17,7 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0392-is-subsequence) |
-| [0771-jewels-and-stones](https://github.com/JungSeong/Algorithm/tree/master/0771-jewels-and-stones) |
+| [0771-jewels-and-stones](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/1768-merge-strings-alternately) |
@@ -129,7 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0383-ransom-note) |
-| [0771-jewels-and-stones](https://github.com/JungSeong/Algorithm/tree/master/0771-jewels-and-stones) |
+| [0771-jewels-and-stones](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/1331-rank-transform-of-an-array) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/3121-count-the-number-of-special-characters-ii) |
 | [3731-find-missing-elements](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/3731-find-missing-elements) |
