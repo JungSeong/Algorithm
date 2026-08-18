@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0486-predict-the-winner) |
+| [0682-baseball-game](https://github.com/JungSeong/Algorithm/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/1331-rank-transform-of-an-array) |
 | [2239-find-closest-number-to-zero](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/2239-find-closest-number-to-zero) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0150-evaluate-reverse-polish-notation) |
+| [0682-baseball-game](https://github.com/JungSeong/Algorithm/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0289-game-of-life) |
+| [0682-baseball-game](https://github.com/JungSeong/Algorithm/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/1260-shift-2d-grid) |
 ## Memoization
 |  |
