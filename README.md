@@ -107,7 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0486-predict-the-winner) |
-| [0643-maximum-average-subarray-i](https://github.com/JungSeong/Algorithm/tree/master/0643-maximum-average-subarray-i) |
+| [0643-maximum-average-subarray-i](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0739-daily-temperatures) |
 | [1260-shift-2d-grid](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/1260-shift-2d-grid) |
@@ -337,7 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0219-contains-duplicate-ii) |
-| [0643-maximum-average-subarray-i](https://github.com/JungSeong/Algorithm/tree/master/0643-maximum-average-subarray-i) |
+| [0643-maximum-average-subarray-i](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0643-maximum-average-subarray-i) |
 ## Union-Find
 |  |
 | ------- |
