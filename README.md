@@ -53,7 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0172-factorial-trailing-zeroes) |
-| [0367-valid-perfect-square](https://github.com/JungSeong/Algorithm/tree/master/0367-valid-perfect-square) |
+| [0367-valid-perfect-square](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -195,7 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0300-longest-increasing-subsequence) |
-| [0367-valid-perfect-square](https://github.com/JungSeong/Algorithm/tree/master/0367-valid-perfect-square) |
+| [0367-valid-perfect-square](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0367-valid-perfect-square) |
 ## Dynamic Programming
 |  |
 | ------- |
