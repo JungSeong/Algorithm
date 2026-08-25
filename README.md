@@ -111,7 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0739-daily-temperatures) |
-| [0875-koko-eating-bananas](https://github.com/JungSeong/Algorithm/tree/master/0875-koko-eating-bananas) |
+| [0875-koko-eating-bananas](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0875-koko-eating-bananas) |
 | [1260-shift-2d-grid](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/1331-rank-transform-of-an-array) |
 | [2239-find-closest-number-to-zero](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/2239-find-closest-number-to-zero) |
@@ -200,7 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0367-valid-perfect-square) |
-| [0875-koko-eating-bananas](https://github.com/JungSeong/Algorithm/tree/master/0875-koko-eating-bananas) |
+| [0875-koko-eating-bananas](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0875-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |
