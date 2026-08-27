@@ -27,7 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
-| [0572-subtree-of-another-tree](https://github.com/JungSeong/Algorithm/tree/master/0572-subtree-of-another-tree) |
+| [0572-subtree-of-another-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0796-rotate-string) |
 ## Linked List
 |  |
@@ -285,7 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0543-diameter-of-binary-tree) |
-| [0572-subtree-of-another-tree](https://github.com/JungSeong/Algorithm/tree/master/0572-subtree-of-another-tree) |
+| [0572-subtree-of-another-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -301,7 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0543-diameter-of-binary-tree) |
-| [0572-subtree-of-another-tree](https://github.com/JungSeong/Algorithm/tree/master/0572-subtree-of-another-tree) |
+| [0572-subtree-of-another-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0743-network-delay-time) |
 ## Breadth-First Search
@@ -330,7 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0543-diameter-of-binary-tree) |
-| [0572-subtree-of-another-tree](https://github.com/JungSeong/Algorithm/tree/master/0572-subtree-of-another-tree) |
+| [0572-subtree-of-another-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0637-average-of-levels-in-binary-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -397,5 +397,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
-| [0572-subtree-of-another-tree](https://github.com/JungSeong/Algorithm/tree/master/0572-subtree-of-another-tree) |
+| [0572-subtree-of-another-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
