@@ -54,7 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0172-factorial-trailing-zeroes) |
-| [0204-count-primes](https://github.com/JungSeong/Algorithm/tree/master/0204-count-primes) |
+| [0204-count-primes](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0486-predict-the-winner) |
@@ -99,7 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0169-majority-element) |
 | [0198-house-robber](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0200-number-of-islands) |
-| [0204-count-primes](https://github.com/JungSeong/Algorithm/tree/master/0204-count-primes) |
+| [0204-count-primes](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0219-contains-duplicate-ii) |
@@ -403,21 +403,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
-| [0204-count-primes](https://github.com/JungSeong/Algorithm/tree/master/0204-count-primes) |
+| [0204-count-primes](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0204-count-primes) |
 ## Number Theory
 |  |
 | ------- |
-| [0204-count-primes](https://github.com/JungSeong/Algorithm/tree/master/0204-count-primes) |
+| [0204-count-primes](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0204-count-primes) |
 ## Primality Test
 |  |
 | ------- |
-| [0204-count-primes](https://github.com/JungSeong/Algorithm/tree/master/0204-count-primes) |
+| [0204-count-primes](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0204-count-primes) |
 ## Sieve Theory
 |  |
 | ------- |
-| [0204-count-primes](https://github.com/JungSeong/Algorithm/tree/master/0204-count-primes) |
+| [0204-count-primes](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0204-count-primes) |
 ## Prime Number Sieve
 |  |
 | ------- |
-| [0204-count-primes](https://github.com/JungSeong/Algorithm/tree/master/0204-count-primes) |
+| [0204-count-primes](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0204-count-primes) |
 <!---LeetCode Topics End-->
