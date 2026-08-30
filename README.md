@@ -51,7 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0048-rotate-image) |
 | [0066-plus-one](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0066-plus-one) |
-| [0069-sqrtx](https://github.com/JungSeong/Algorithm/tree/master/0069-sqrtx) |
+| [0069-sqrtx](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0172-factorial-trailing-zeroes) |
@@ -200,7 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0035-search-insert-position) |
-| [0069-sqrtx](https://github.com/JungSeong/Algorithm/tree/master/0069-sqrtx) |
+| [0069-sqrtx](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0209-minimum-size-subarray-sum) |
@@ -428,5 +428,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Newton's Method
 |  |
 | ------- |
-| [0069-sqrtx](https://github.com/JungSeong/Algorithm/tree/master/0069-sqrtx) |
+| [0069-sqrtx](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0069-sqrtx) |
 <!---LeetCode Topics End-->
