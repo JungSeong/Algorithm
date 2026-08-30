@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/JungSeong/Algorithm/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0112-path-sum) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/JungSeong/Algorithm/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0199-binary-tree-right-side-view) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/JungSeong/Algorithm/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0112-path-sum) |
