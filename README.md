@@ -93,7 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0088-merge-sorted-array) |
-| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JungSeong/Algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0150-evaluate-reverse-polish-notation) |
@@ -131,7 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0073-set-matrix-zeroes) |
-| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JungSeong/Algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0141-linked-list-cycle) |
@@ -252,7 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
-| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JungSeong/Algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0215-kth-largest-element-in-an-array) |
 ## Counting
@@ -287,7 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0104-maximum-depth-of-binary-tree) |
-| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JungSeong/Algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0199-binary-tree-right-side-view) |
@@ -335,7 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0104-maximum-depth-of-binary-tree) |
-| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JungSeong/Algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0199-binary-tree-right-side-view) |
