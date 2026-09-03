@@ -96,7 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0128-longest-consecutive-sequence) |
-| [0130-surrounded-regions](https://github.com/JungSeong/Algorithm/tree/master/0130-surrounded-regions) |
+| [0130-surrounded-regions](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0167-two-sum-ii-input-array-is-sorted) |
@@ -243,7 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0085-maximal-rectangle) |
-| [0130-surrounded-regions](https://github.com/JungSeong/Algorithm/tree/master/0130-surrounded-regions) |
+| [0130-surrounded-regions](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/1260-shift-2d-grid) |
@@ -312,7 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0112-path-sum) |
-| [0130-surrounded-regions](https://github.com/JungSeong/Algorithm/tree/master/0130-surrounded-regions) |
+| [0130-surrounded-regions](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0226-invert-binary-tree) |
@@ -330,7 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0112-path-sum) |
-| [0130-surrounded-regions](https://github.com/JungSeong/Algorithm/tree/master/0130-surrounded-regions) |
+| [0130-surrounded-regions](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0226-invert-binary-tree) |
@@ -385,7 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0128-longest-consecutive-sequence) |
-| [0130-surrounded-regions](https://github.com/JungSeong/Algorithm/tree/master/0130-surrounded-regions) |
+| [0130-surrounded-regions](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0200-number-of-islands) |
 ## Simulation
 |  |
