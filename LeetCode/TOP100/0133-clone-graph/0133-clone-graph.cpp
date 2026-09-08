@@ -27,12 +27,12 @@ public:
     unordered_map<Node*, Node*> cloned;
 
     Node* dfs(Node* node) {
-        if (node == nullptr) {
+        if (!node) {
             return nullptr;
         }
 
-        if (cloned.count(node)) {
-            return cloned[node];
+        if (cloned.count(node)) { // 해당 주소를 가진 값이 다시 들어온다면
+            return cloned[node]; // 새로운 주소를 가진 값으로 반환한다
         }
 
         Node* copy = new Node(node->val);

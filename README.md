@@ -322,7 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0200-number-of-islands) |
-| [0207-course-schedule](https://github.com/JungSeong/Algorithm/tree/master/0207-course-schedule) |
+| [0207-course-schedule](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0230-kth-smallest-element-in-a-bst) |
 | [0399-evaluate-division](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0399-evaluate-division) |
@@ -343,7 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0200-number-of-islands) |
-| [0207-course-schedule](https://github.com/JungSeong/Algorithm/tree/master/0207-course-schedule) |
+| [0207-course-schedule](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0530-minimum-absolute-difference-in-bst) |
@@ -382,7 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0133-clone-graph) |
-| [0207-course-schedule](https://github.com/JungSeong/Algorithm/tree/master/0207-course-schedule) |
+| [0207-course-schedule](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0743-network-delay-time) |
 ## Shortest Path
@@ -478,9 +478,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
-| [0207-course-schedule](https://github.com/JungSeong/Algorithm/tree/master/0207-course-schedule) |
+| [0207-course-schedule](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0207-course-schedule) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
-| [0207-course-schedule](https://github.com/JungSeong/Algorithm/tree/master/0207-course-schedule) |
+| [0207-course-schedule](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0207-course-schedule) |
 <!---LeetCode Topics End-->
