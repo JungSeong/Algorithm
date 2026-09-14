@@ -18,7 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0399-evaluate-division) |
-| [0567-permutation-in-string](https://github.com/JungSeong/Algorithm/tree/master/0567-permutation-in-string) |
+| [0567-permutation-in-string](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/1081-smallest-subsequence-of-distinct-characters) |
@@ -151,7 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0383-ransom-note) |
-| [0567-permutation-in-string](https://github.com/JungSeong/Algorithm/tree/master/0567-permutation-in-string) |
+| [0567-permutation-in-string](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/1331-rank-transform-of-an-array) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/3121-count-the-number-of-special-characters-ii) |
@@ -175,7 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0392-is-subsequence) |
-| [0567-permutation-in-string](https://github.com/JungSeong/Algorithm/tree/master/0567-permutation-in-string) |
+| [0567-permutation-in-string](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/1768-merge-strings-alternately) |
 ## Greedy
@@ -399,7 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0219-contains-duplicate-ii) |
-| [0567-permutation-in-string](https://github.com/JungSeong/Algorithm/tree/master/0567-permutation-in-string) |
+| [0567-permutation-in-string](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/1004-max-consecutive-ones-iii) |
 ## Union-Find
