@@ -445,7 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0017-letter-combinations-of-a-phone-number) |
-| [0077-combinations](https://github.com/JungSeong/Algorithm/tree/master/0077-combinations) |
+| [0077-combinations](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0077-combinations) |
 ## DP on Trees
 |  |
 | ------- |
