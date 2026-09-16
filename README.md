@@ -103,7 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0150-evaluate-reverse-polish-notation) |
-| [0162-find-peak-element](https://github.com/JungSeong/Algorithm/tree/master/0162-find-peak-element) |
+| [0162-find-peak-element](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0169-majority-element) |
 | [0198-house-robber](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0198-house-robber) |
@@ -217,7 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0074-search-a-2d-matrix) |
-| [0162-find-peak-element](https://github.com/JungSeong/Algorithm/tree/master/0162-find-peak-element) |
+| [0162-find-peak-element](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0300-longest-increasing-subsequence) |
