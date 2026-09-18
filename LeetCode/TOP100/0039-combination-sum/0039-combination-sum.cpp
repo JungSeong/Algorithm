@@ -4,32 +4,19 @@ using namespace std;
 class Solution {
 public:
     vector<vector<int>> answer;
-    vector<unordered_map<int, int>> cnt_map;
 
-    void dfs(int sum, int target, vector<int>& possible, vector<int>& candidates) {
+    void dfs(int sum, int target, int start, vector<int>& possible, vector<int>& candidates) {
         if (sum > target) {
             return;
         }
         else if (sum == target) {
-            unordered_map<int, int> um;
-
-            for (int i : possible) {
-                um[i]++;
-            }
-
-            for (const auto& dict : cnt_map) {
-                if (um == dict) {
-                    return;
-                }
-            }
-            cnt_map.push_back(um);
             answer.push_back(possible);
             return;
         }
         else {
-            for (const int cand : candidates) {
-                possible.push_back(cand);
-                dfs(sum+cand, target, possible, candidates);
+            for (int i=start; i<candidates.size(); i++) {
+                possible.push_back(candidates[i]);
+                dfs(sum+candidates[i], target, i, possible, candidates);
                 possible.pop_back();
             }
         }
@@ -37,7 +24,7 @@ public:
 
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<int> possible;
-        dfs(0, target, possible, candidates);
+        dfs(0, target, 0, possible, candidates);
 
         return answer;
     }

@@ -80,7 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0027-remove-element) |
 | [0031-next-permutation](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0031-next-permutation) |
-| [0033-search-in-rotated-sorted-array](https://github.com/JungSeong/Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0036-valid-sudoku) |
@@ -215,7 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
-| [0033-search-in-rotated-sorted-array](https://github.com/JungSeong/Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/JungSeong/Algorithm/tree/master/LeetCode/TOP100/0069-sqrtx) |
